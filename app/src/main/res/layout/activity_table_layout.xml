@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*">
+
+    <TableRow tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_weight="1"
+            android:background="#F30827"
+            android:gravity="center"
+            android:text="@string/textView19_name"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_weight="1"
+            android:background="#31DF42"
+            android:gravity="center"
+            android:text="@string/textView20_name"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_weight="1"
+            android:background="#3585ED"
+            android:gravity="center"
+            android:text="@string/textView21_name"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+    </TableRow>
+
+    <TableRow tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_weight="1"
+            android:background="#D5A822"
+            android:gravity="center"
+            android:text="@string/textView22_name"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_weight="1"
+            android:background="#959492"
+            android:gravity="center"
+            android:text="@string/textView23_name"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+    </TableRow>
+
+    <TableRow tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_weight="1"
+            android:background="#97156F"
+            android:gravity="center"
+            android:text="@string/textView24_name"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+    </TableRow>
+
+
+</TableLayout>
